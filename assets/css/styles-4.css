@@ -1,3 +1,9 @@
+/* Own Add On styles*/
+li.indent {
+    margin-left: 15px;
+}
+
+
 /*   
  * Template Name: Orbit - Responsive Resume/CV Template for Developers
  * Version: 1.0
@@ -291,5 +297,7 @@ p {
     top: 1px;
   }
 }
+
+
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
